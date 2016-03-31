@@ -1,0 +1,52 @@
+{
+  "name": "planning-cockpit",
+  "version": "0.1.0",
+  "description": "A planning overview used internally at AFAS Software",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afas-rysst/planning-cockpit.git"
+  },
+  "keywords": [
+    "maquette"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afas-rysst/planning-cockpit/issues"
+  },
+  "homepage": "https://github.com/afas-rysst/planning-cockpit#readme",
+  "devDependencies": {
+    "autoprefixer": "6.3.5",
+    "browser-sync": "2.11.2",
+    "browserify": "13.0.0",
+    "chai": "3.5.0",
+    "del": "2.2.0",
+    "extend": "3.0.0",
+    "gulp": "3.9.1",
+    "gulp-concat": "2.6.0",
+    "gulp-mocha": "2.2.0",
+    "gulp-plumber": "1.1.0",
+    "gulp-postcss": "6.1.0",
+    "gulp-sourcemaps": "1.6.0",
+    "gulp-tslint": "4.3.4",
+    "gulp-typescript": "2.12.1",
+    "gulp-util": "3.0.7",
+    "maquette": "2.3.1",
+    "maquette-query": "0.6.3",
+    "mocha": "2.4.5",
+    "postcss-css-variables": "0.5.1",
+    "postcss-custom-properties": "5.0.0",
+    "tsify": "0.14.1",
+    "tslint": "3.6.0",
+    "typescript": "1.8.9",
+    "typescript-formatter": "2.1.0",
+    "velocity-animate": "1.2.3",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0",
+    "whatwg-fetch": "^0.11.0"
+  }
+}

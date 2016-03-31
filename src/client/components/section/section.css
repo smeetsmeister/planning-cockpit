@@ -1,0 +1,12 @@
+.Section {
+  display:block;
+}
+
+.Section-box {
+  padding: 20px;
+  width: 200px;
+}
+
+.Section-description {
+  color: var(--color-text);
+}
